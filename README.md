@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Anirudh Rai</h1>
+<h1 align="center">Hi 👋, I'm Nelson Pineda</h1>
 🌱 I’m currently learning **WEB Development Full-Stack**
 
 <h3>My GitHub Stats</h3>
@@ -8,13 +8,13 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NelsonPineda007&show_icons=true&theme=dark&locale=en&layout=compact" alt="NelsonPineda007" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NelsonPineda007&show_icons=true&theme=dark&locale=en" alt="NelsonPineda007" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonPineda007&theme=dark" alt="NelsonPineda007" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <!--h1 without bottom border-->
