@@ -108,9 +108,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NelsonPineda007&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
-
-<div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-  
-</div>
